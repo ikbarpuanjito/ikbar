@@ -103,7 +103,7 @@ export default function EditBlogs() {
 
             <Editor
                     id='content'
-                    apiKey='hz9os6h0p1826jcqknks4q1fm8yl9khctaa7nmexkf0rnx2e'
+                    apiKey='7i8ufo6mgpzi4l9wikiptvwg40lt7wlbo7a6nf74pbcy3593'
                     onInit={(_evt, editor) => editorRef.current = editor}
                     initialValue={data.content}
                     init={{
